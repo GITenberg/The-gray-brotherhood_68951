@@ -1,0 +1,28 @@
+_repo: The-gray-brotherhood_68951
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leverage, Henry
+    alias: Leverage, Carl Henry
+    birthdate: 1885
+    deathdate: 1931
+    gutenberg_agent_id: '36707'
+    url: http://www.gutenberg.org/2009/agents/36707
+description: ''
+gutenberg_issued: '2022-09-10'
+identifiers:
+  gutenberg: '68951'
+language: en
+pgterms:marc904: https://archive.org/details/BlueBookV031N06192010
+pgterms:marc905: 20220730175221leverage
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Story-Press Corporation,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The gray brotherhood
+url: http://www.gutenberg.org/ebooks/68951
